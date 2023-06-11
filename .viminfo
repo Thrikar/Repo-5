@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1686465724,,"wq"
+|2,0,1686467282,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -28,36 +28,93 @@
 |3,1,1,1,1,0,1686465715,":wq"
 
 # File marks:
-'0  1  0  ~/.git/.gitignore
-|4,48,1,0,1686465724,"~/.git/.gitignore"
-'1  8  15  ~/.git/config
-|4,49,8,15,1686465213,"~/.git/config"
-'2  8  15  ~/.git/config
-|4,50,8,15,1686465213,"~/.git/config"
-'3  1  0  ~/.git/config
-|4,51,1,0,1686465090,"~/.git/config"
-'4  1  0  ~/.git/config
-|4,52,1,0,1686465090,"~/.git/config"
+'0  4  0  ~/.viminfo
+|4,48,4,0,1686467282,"~/.viminfo"
+'1  1  0  ~/.git/MERGE_MSG
+|4,49,1,0,1686467218,"~/.git/MERGE_MSG"
+'2  1  0  ~/.git/.gitignore
+|4,50,1,0,1686465724,"~/.git/.gitignore"
+'3  8  15  ~/.git/config
+|4,51,8,15,1686465213,"~/.git/config"
+'4  8  15  ~/.git/config
+|4,52,8,15,1686465213,"~/.git/config"
 '5  1  0  ~/.git/config
 |4,53,1,0,1686465090,"~/.git/config"
 '6  1  0  ~/.git/config
 |4,54,1,0,1686465090,"~/.git/config"
+'7  1  0  ~/.git/config
+|4,55,1,0,1686465090,"~/.git/config"
+'8  1  0  ~/.git/config
+|4,56,1,0,1686465090,"~/.git/config"
 
 # Jumplist (newest first):
+-'  4  0  ~/.viminfo
+|4,39,4,0,1686467282,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1686467273,"~/.viminfo"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1686467218,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1686467218,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/.gitignore
+|4,39,1,0,1686465724,"~/.git/.gitignore"
+-'  1  0  ~/.git/.gitignore
+|4,39,1,0,1686465724,"~/.git/.gitignore"
+-'  1  0  ~/.git/.gitignore
+|4,39,1,0,1686465724,"~/.git/.gitignore"
 -'  1  0  ~/.git/.gitignore
 |4,39,1,0,1686465724,"~/.git/.gitignore"
 -'  8  15  ~/.git/config
 |4,39,8,15,1686465213,"~/.git/config"
 -'  8  15  ~/.git/config
 |4,39,8,15,1686465213,"~/.git/config"
+-'  8  15  ~/.git/config
+|4,39,8,15,1686465213,"~/.git/config"
+-'  8  15  ~/.git/config
+|4,39,8,15,1686465213,"~/.git/config"
+-'  8  15  ~/.git/config
+|4,39,8,15,1686465213,"~/.git/config"
+-'  8  15  ~/.git/config
+|4,39,8,15,1686465213,"~/.git/config"
+-'  8  15  ~/.git/config
+|4,39,8,15,1686465213,"~/.git/config"
+-'  8  15  ~/.git/config
+|4,39,8,15,1686465213,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1686465157,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1686465157,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1686465157,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1686465157,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1686465157,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1686465157,"~/.git/config"
 -'  1  0  ~/.git/config
 |4,39,1,0,1686465157,"~/.git/config"
 -'  1  0  ~/.git/config
 |4,39,1,0,1686465157,"~/.git/config"
 -'  1  0  ~/.git/config
 |4,39,1,0,1686465090,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1686465090,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1686465090,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1686465090,"~/.git/config"
 
 # History of marks within files (newest to oldest):
+
+> ~/.viminfo
+	*	1686467278	0
+	"	4	0
+
+> ~/.git/MERGE_MSG
+	*	1686467210	0
+	"	1	0
+	^	1	6
 
 > ~/.git/.gitignore
 	*	1686465720	0
